@@ -1,0 +1,16 @@
+configs = {
+    "DEFAULT_IP_ADDRESS": "127.0.0.5",
+    "DEFAULT_PORT": 9999,
+    "MAX_CONNECTIONS": 7,
+    "MAX_PACKAGE_LENGTH": 1024,
+    "ENCODING": "utf-8",
+    "ACTION": "action",
+    "TIME": "time",
+    "USER": "user",
+    "ACCOUNT_NAME": "account_name",
+    "PRESENCE": "presence",
+    "RESPONSE": "response",
+    "ERROR": "error",
+    "start_range_port": 1024,
+    "end_range_port": 65535,
+}
