@@ -5,7 +5,7 @@ from commands import get_configs
 
 
 class TestClient(unittest.TestCase):
-    config = get_configs(is_server=False)
+    config = get_configs(name='client', is_server=False)
 
     def test_create_presence_message(self):
         test_create_presence_message = create_presence_message('Guest')

@@ -1,10 +1,15 @@
 import json
+import logging
 import time
 from socket import socket, AF_INET, SOCK_STREAM
 
 import commands
+from settings import client_log_config
 
-config = commands.get_configs(is_server=False)
+client_name_logger = client_log_config.name_logger
+client_logger = logging.getLogger(client_name_logger)
+
+config = commands.get_configs(client_name_logger, is_server=False)
 
 
 def create_presence_message(account_name):
@@ -27,8 +32,9 @@ def handle_response(message):
 
 
 def run_client():
-    server_address = commands.validate_address() or commands.get_configs().get("DEFAULT_IP_ADDRESS")
-    server_port = commands.validate_port()
+    server_address = commands.validate_address(client_name_logger) or \
+                     commands.get_configs(client_name_logger).get("DEFAULT_IP_ADDRESS")
+    server_port = commands.validate_port(client_name_logger)
 
     server_socket = socket(AF_INET, SOCK_STREAM)
     server_socket.connect((server_address, server_port))
@@ -37,10 +43,20 @@ def run_client():
     try:
         response = commands.get_message(server_socket, config)
         handled_response = handle_response(response)
-        print(f'Ответ от сервера: {response}')
-        print(handled_response)
+
+        # print(f'Ответ от сервера: {response}')
+        # print(handled_response)
+
+        client_logger.debug(f'Ответ от сервера: {response}')
+        client_logger.debug(handled_response)
+
     except (ValueError, json.JSONDecodeError):
-        print('Ошибка декодирования сообщения')
+        client_logger.error('Ошибка декодирования сообщения')
+        # print('Ошибка декодирования сообщения')
+
+    client_logger.info(
+        f'Client connected at address: {server_address or config.get("DEFAULT_IP_ADDRESS")} port: {server_port} '
+    )
 
 
 if __name__ == '__main__':
