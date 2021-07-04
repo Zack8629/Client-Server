@@ -1,0 +1,9 @@
+2021-07-04 23:19:41,757 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-04 23:19:41,757 DEBUG      client client.py 200 : OK
+2021-07-04 23:19:41,757 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-04 23:38:02,478 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-04 23:38:02,478 DEBUG      client client.py 200 : OK
+2021-07-04 23:38:02,478 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-04 23:38:20,094 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-04 23:38:20,094 DEBUG      client client.py 200 : OK
+2021-07-04 23:38:20,094 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 

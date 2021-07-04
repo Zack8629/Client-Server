@@ -1,10 +1,18 @@
 import json
+import logging
 import sys
 
-from configs import default_parameters
+from settings import client_log_config, server_log_config
+from settings.configs import default_parameters
+
+client_name_logger = client_log_config.name_logger
+client_logger = logging.getLogger(client_name_logger)
+
+server_name_logger = server_log_config.name_logger
+server_logger = logging.getLogger(server_name_logger)
 
 
-def get_configs(is_server=True):
+def get_configs(name: str, is_server=True):
     config_keys = [
         'DEFAULT_PORT',
         'MAX_CONNECTIONS',
@@ -26,7 +34,13 @@ def get_configs(is_server=True):
 
     for key in config_keys:
         if key not in default_parameters:
-            print(f'В файле конфигураций не хватает ключа: {key}')
+            error_text = f'В файле конфигураций не хватает ключа: {key}'
+            if name == 'client':
+                client_logger.error(error_text)
+            else:
+                server_logger.error(error_text)
+            print(error_text)
+
             sys.exit(1)
     return default_parameters
 
@@ -48,7 +62,7 @@ def get_message(opened_socket, configs):
     raise ValueError
 
 
-def validate_address():
+def validate_address(name):
     try:
         if '-a' in sys.argv:
             address = sys.argv[2]
@@ -56,18 +70,23 @@ def validate_address():
             address = ''
 
     except IndexError:
-        print(f'После "-a"- необходимо указать адрес сервера')
-        sys.exit(1)
+        error_text = f'После "-a" необходимо указать адрес сервера'
+        if name == 'client':
+            client_logger.error(error_text)
+        else:
+            server_logger.error(error_text)
+        print(error_text)
 
+        sys.exit(1)
     return address
 
 
-def validate_port():
+def validate_port(name):
     argument_number = 2
-    if validate_address():
+    if validate_address(name):
         argument_number = 4
 
-    config = get_configs()
+    config = get_configs(name)
     start_range_port = config.get('START_RANGE_PORT')
     end_range_port = config.get('END_RANGE_PORT')
 
@@ -80,10 +99,21 @@ def validate_port():
         if not start_range_port <= port <= end_range_port:
             raise ValueError
     except IndexError:
-        print(f'После "-p" необходимо указать порт сервера')
+        error_text = f'После "-p" необходимо указать порт сервера'
+        if name == 'client':
+            client_logger.error(error_text)
+        else:
+            server_logger.error(error_text)
+        print(error_text)
+
         sys.exit(1)
     except ValueError:
-        print(f'Порт должен быть указан в диапазоне от {start_range_port} до {end_range_port}')
-        sys.exit(1)
+        error_text = f'Порт должен быть указан в диапазоне от {start_range_port} до {end_range_port}'
+        if name == 'client':
+            client_logger.error(error_text)
+        else:
+            server_logger.error(error_text)
+        print(error_text)
 
+        sys.exit(1)
     return port
