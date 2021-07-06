@@ -2,3 +2,31 @@
 2021-07-04 23:34:49,440 INFO       server server.py The server runs at:127.0.0.8 port: 8888
 2021-07-04 23:37:05,451 INFO       server server.py The server runs at:127.0.0.8 port: 8888
 2021-07-04 23:38:15,473 INFO       server server.py The server runs at:127.0.0.8 port: 8888
+2021-07-06 23:16:07,332 INFO       server server.py The server runs at:127.0.0.8 port: 8888
+2021-07-06 23:23:59,564 INFO       server server.py The server runs at:127.0.0.8 port: 8888
+2021-07-06 23:29:08,816 INFO       server server.py The server runs at:127.0.0.8 port: 8889
+2021-07-06 23:35:45,121 INFO       server server.py The server runs at:127.0.0.8 port: 8889
+2021-07-06 23:36:36,160 INFO       server server.py The server runs at:127.0.0.8 port: 8889
+2021-07-06 23:36:57,041 INFO       server server.py The server runs at:127.0.0.8 port: 8889
+2021-07-06 23:37:46,184 INFO       server server.py The server runs at:127.0.0.8 port: 8889
+2021-07-06 23:38:22,581 INFO       server server.py The server runs at:127.0.0.8 port: 8889
+2021-07-06 23:39:05,475 INFO       server server.py The server runs at:127.0.0.8 port: 8889
+2021-07-06 23:42:05,543 INFO       server server.py The server runs at:127.0.0.8 port: 8889
+2021-07-06 23:43:32,299 INFO       server server.py The server runs at:127.0.0.8 port: 88892021-07-06 23:50:22,168 INFO       server server.py The server runs at:127.0.0.8 port: 8889
+2021-07-06 23:50:46,834 INFO       server server.py The server runs at:127.0.0.8 port: 8889
+2021-07-06 23:52:59,312 INFO       server server.py The server runs at:127.0.0.8 port: 8889
+2021-07-06 23:54:49,276 INFO       server server.py The server runs at:127.0.0.8 port: 8889
+2021-07-06 23:55:10,139 INFO       server server.py The server runs at:127.0.0.8 port: 8889
+2021-07-06 23:55:33,567 INFO       server server.py The server runs at:127.0.0.8 port: 8889
+2021-07-06 23:57:47,097 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>. 
+2021-07-06 23:57:47,098 INFO       server server.py The server runs at:127.0.0.8 port: 8889
+2021-07-06 23:58:24,662 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625605104.6606007, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server. 
+2021-07-06 23:58:57,374 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625605137.373766, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server. 
+2021-07-06 23:59:14,194 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-06 23:59:14,194 INFO       server server.py The server runs at:127.0.0.8 port: 8889
+2021-07-06 23:59:17,644 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-06 23:59:17,645 INFO       server server.py The server runs at:127.0.0.8 port: 8889
+2021-07-07 00:00:17,620 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-07 00:00:17,621 INFO       server server.py The server runs at:127.0.0.8 port: 8889
+2021-07-07 00:00:28,278 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625605228.2775784, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-07 00:02:15,236 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.

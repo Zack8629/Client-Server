@@ -1,6 +1,6 @@
 import unittest
 
-from commands import get_configs
+from services.commands import get_configs
 from server import handle_message
 
 

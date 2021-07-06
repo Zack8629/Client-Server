@@ -1,7 +1,7 @@
 import unittest
 
 from client import handle_response, create_presence_message
-from commands import get_configs
+from services.commands import get_configs
 
 
 class TestClient(unittest.TestCase):

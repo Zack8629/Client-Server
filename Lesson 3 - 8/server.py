@@ -2,7 +2,8 @@ import json
 import logging
 from socket import socket, AF_INET, SOCK_STREAM
 
-import commands
+from services import commands
+from services.logs_decorator import log
 from settings import server_log_config
 
 server_name_logger = server_log_config.name_logger
@@ -11,6 +12,7 @@ server_logger = logging.getLogger(server_name_logger)
 config = commands.get_configs(server_name_logger)
 
 
+@log
 def handle_message(message):
     if config.get('ACTION') in message \
             and message[config.get('ACTION')] == config.get('PRESENCE') \
@@ -24,6 +26,7 @@ def handle_message(message):
     }
 
 
+@log
 def run_server():
     address = commands.validate_address(server_name_logger)
     port = commands.validate_port(server_name_logger)
