@@ -3,7 +3,8 @@ import logging
 import time
 from socket import socket, AF_INET, SOCK_STREAM
 
-import commands
+from services import commands
+from services.logs_decorator import log
 from settings import client_log_config
 
 client_name_logger = client_log_config.name_logger
@@ -12,6 +13,7 @@ client_logger = logging.getLogger(client_name_logger)
 config = commands.get_configs(client_name_logger, is_server=False)
 
 
+@log
 def create_presence_message(account_name):
     message = {
         config.get('ACTION'): config.get('PRESENCE'),
@@ -22,7 +24,7 @@ def create_presence_message(account_name):
     }
     return message
 
-
+@log
 def handle_response(message):
     if config.get('RESPONSE') in message:
         if message[config.get('RESPONSE')] == 200:
@@ -30,7 +32,7 @@ def handle_response(message):
         return f'400 : {message[config.get("ERROR")]}'
     raise ValueError
 
-
+@log
 def run_client():
     server_address = commands.validate_address(client_name_logger) or \
                      commands.get_configs(client_name_logger).get("DEFAULT_IP_ADDRESS")
