@@ -30,3 +30,552 @@
 2021-07-07 00:00:17,621 INFO       server server.py The server runs at:127.0.0.8 port: 8889
 2021-07-07 00:00:28,278 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625605228.2775784, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
 2021-07-07 00:02:15,236 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-08 23:59:39,651 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-08 23:59:39,665 INFO       server server.py The server runs at:127.0.0.8 port: 8888
+2021-07-08 23:59:43,767 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625777983.7656546, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-08 23:59:57,061 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625777997.057422, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-08 23:59:57,250 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625777997.2483017, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-08 23:59:57,271 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625777997.2682884, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-08 23:59:57,284 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625777997.28228, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-08 23:59:57,629 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625777997.626266, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-08 23:59:57,662 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625777997.658251, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-08 23:59:57,975 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625777997.9709396, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-08 23:59:58,179 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625777998.1762252, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-08 23:59:58,213 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625777998.2100205, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-08 23:59:58,326 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625777998.323672, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:00:24,883 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625778024.8801472, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:00:24,996 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625778024.9920816, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:00:25,016 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625778025.014066, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:00:25,167 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625778025.1659718, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:00:25,392 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625778025.3893752, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:00:25,395 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625778025.393373, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:00:25,467 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625778025.4643345, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:00:25,599 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625778025.5961063, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:00:25,698 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625778025.6965187, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:00:25,700 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625778025.6965187, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:00:30,679 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625778030.6761642, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:00:30,742 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625778030.7401247, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:00:30,941 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625778030.9398975, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:00:31,122 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625778031.120307, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:00:31,205 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625778031.2006285, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:00:31,266 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625778031.2625847, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:00:31,419 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625778031.4167993, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:00:31,425 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625778031.4237916, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:00:31,438 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625778031.4357834, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:00:31,492 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625778031.4907026, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:00:39,176 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625778039.1746428, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:00:39,181 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625778039.1787534, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:00:39,310 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625778039.3080695, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:00:39,344 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625778039.342048, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:00:39,595 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625778039.5933783, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:00:39,688 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625778039.6853213, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:00:39,832 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625778039.8300245, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:00:39,989 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625778039.986234, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:00:39,994 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625778039.9922292, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:00:39,997 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625778039.996225, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:30:25,775 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625779825.773704, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:30:25,789 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625779825.7866957, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:30:25,835 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625779825.8306684, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:30:25,945 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625779825.9426022, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:30:26,092 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625779826.0895078, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:30:26,174 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625779826.1725888, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:30:26,305 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625779826.3025799, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:30:26,454 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625779826.4522395, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:30:26,641 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625779826.639356, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:30:26,656 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625779826.655325, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:30:53,236 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625779853.234061, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:30:53,265 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625779853.2624369, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:30:53,270 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625779853.2694273, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:31:20,017 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625779880.0164585, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:31:20,033 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625779880.032449, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:31:24,614 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625779884.6133268, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:31:24,632 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625779884.6318507, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:33:05,463 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625779985.4617965, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:33:05,534 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625779985.5320373, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:33:05,583 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625779985.5814779, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:33:05,641 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625779985.639442, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:33:05,657 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625779985.6548753, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:35:07,590 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780107.5896113, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:35:47,975 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780147.973315, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:36:02,988 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780162.9878871, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:36:09,682 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780169.6810272, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:36:26,017 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780186.015591, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:36:37,096 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780197.0952313, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:36:41,023 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780201.0200915, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:40:18,427 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780418.4237275, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:40:18,473 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780418.4716992, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:40:18,489 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780418.4888465, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:40:18,544 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780418.5431578, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:40:18,568 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780418.566146, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:40:48,427 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780448.4250753, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:40:48,515 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780448.5130198, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:40:48,564 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780448.5621395, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:40:48,577 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780448.5761309, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:40:48,613 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780448.6111133, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:41:02,587 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780462.5862942, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:41:02,686 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780462.6847506, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:41:02,695 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780462.6927493, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:41:02,720 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780462.718856, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:41:02,750 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780462.74971, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:41:32,252 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780492.250433, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:41:32,301 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780492.2994065, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:41:32,327 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780492.3263898, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:45:43,403 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780743.401247, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:45:43,453 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780743.4526541, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:45:43,470 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780743.468801, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:45:57,853 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780757.8516238, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:45:57,892 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780757.890394, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:45:57,893 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780757.8923879, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:47:41,651 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780861.6495855, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:47:41,694 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780861.6915598, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:47:41,717 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780861.7160535, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:48:01,641 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780881.6390276, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:48:01,775 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780881.7739437, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:48:01,789 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780881.7869353, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:48:01,844 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780881.8429015, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:48:01,973 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780881.9708257, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:48:02,060 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780882.0587676, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:48:02,177 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780882.1747, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:48:02,241 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780882.238978, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:48:02,397 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780882.3950765, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:48:02,488 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780882.485511, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:48:09,940 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780889.9382086, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:48:10,022 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780890.020159, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:48:10,067 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780890.0641348, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:48:10,123 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780890.1210957, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:48:10,307 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780890.304981, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:48:10,331 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780890.3289669, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:48:10,497 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780890.4958649, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:48:10,523 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780890.5218477, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:48:10,769 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780890.7676969, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:48:10,785 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780890.7836843, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:48:12,342 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780892.341235, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:48:12,623 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780892.6193862, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:48:12,769 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780892.7673492, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:48:12,790 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780892.7853765, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:48:12,866 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780892.8638577, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:48:13,039 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780893.0367465, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:48:13,107 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780893.104702, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:48:13,310 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780893.3085852, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:48:13,397 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780893.3965218, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:48:13,408 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780893.4055161, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:48:15,781 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780895.777044, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:48:16,020 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780896.0178947, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:48:16,326 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780896.3237102, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:48:16,429 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780896.424651, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:48:16,502 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780896.5005956, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:48:16,636 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780896.6335125, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:48:16,668 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780896.6664925, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:48:16,670 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780896.664496, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:48:16,774 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780896.7714288, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:48:16,782 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780896.7784295, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:48:19,256 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780899.254889, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:48:19,381 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780899.3788114, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:48:19,431 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780899.4257853, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:48:19,556 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780899.5537038, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:48:19,596 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780899.593678, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:48:19,702 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780899.6976142, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:48:19,799 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780899.7945564, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:48:19,865 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780899.8605158, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:48:20,002 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780900.0004246, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-09 00:48:20,123 DEBUG      server logs_decorator.py функция: handle_message, с параметрами: ({'action': 'presence', 'time': 1625780900.12235, 'user': {'account_name': 'Guest'}},), {}, вызвана из функции: run_server.
+2021-07-11 17:15:15,171 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 17:15:15,198 ERROR      server commands.py Порт должен быть указан в диапазоне от 1024 до 65535
+2021-07-11 17:49:58,414 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 17:49:58,418 INFO       server server.py The server runs at:127.0.0.8 port: 8888
+2021-07-11 17:50:22,156 INFO       server server.py Установлено соедение с ('127.0.0.1', 56891)
+2021-07-11 17:50:22,164 INFO       server server.py Установлено соедение с ('127.0.0.1', 56892)
+2021-07-11 17:51:24,613 INFO       server server.py Установлено соедение с ('127.0.0.1', 51256)
+2021-07-11 17:53:44,043 INFO       server server.py Установлено соедение с ('127.0.0.1', 62388)
+2021-07-11 17:54:20,314 INFO       server server.py Установлено соедение с ('127.0.0.1', 62389)
+2021-07-11 17:55:27,253 INFO       server server.py Установлено соедение с ('127.0.0.1', 55582)
+2021-07-11 17:55:46,697 INFO       server server.py Установлено соедение с ('127.0.0.1', 55584)
+2021-07-11 17:57:52,949 INFO       server server.py Установлено соедение с ('127.0.0.1', 49398)
+2021-07-11 18:08:00,625 INFO       server server.py Установлено соедение с ('127.0.0.1', 60266)
+2021-07-11 18:08:23,684 INFO       server server.py Установлено соедение с ('127.0.0.1', 60269)
+2021-07-11 18:09:09,276 INFO       server server.py Установлено соедение с ('127.0.0.1', 65195)
+2021-07-11 18:12:12,725 INFO       server server.py Установлено соедение с ('127.0.0.1', 57300)
+2021-07-11 18:12:23,360 INFO       server server.py Установлено соедение с ('127.0.0.1', 57302)
+2021-07-11 18:12:36,296 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 18:12:36,298 INFO       server server.py The server runs at:127.0.0.8 port: 8888
+2021-07-11 18:12:39,399 INFO       server server.py Установлено соедение с ('127.0.0.1', 57304)
+2021-07-11 18:12:42,259 INFO       server server.py Установлено соедение с ('127.0.0.1', 57305)
+2021-07-11 18:13:48,361 INFO       server server.py Установлено соедение с ('127.0.0.1', 57308)
+2021-07-11 18:14:00,497 INFO       server server.py Установлено соедение с ('127.0.0.1', 57309)
+2021-07-11 18:14:59,579 INFO       server server.py Установлено соедение с ('127.0.0.1', 59988)
+2021-07-11 18:15:38,689 INFO       server server.py Установлено соедение с ('127.0.0.1', 59992)
+2021-07-11 18:17:03,571 INFO       server server.py Установлено соедение с ('127.0.0.1', 60028)
+2021-07-11 18:17:16,610 INFO       server server.py Установлено соедение с ('127.0.0.1', 60029)
+2021-07-11 18:17:31,752 INFO       server server.py Установлено соедение с ('127.0.0.1', 54561)
+2021-07-11 18:17:39,437 INFO       server server.py Установлено соедение с ('127.0.0.1', 54562)
+2021-07-11 18:17:47,022 INFO       server server.py Установлено соедение с ('127.0.0.1', 53332)
+2021-07-11 18:18:55,502 INFO       server server.py Установлено соедение с ('127.0.0.1', 53334)
+2021-07-11 18:19:01,596 INFO       server server.py Установлено соедение с ('127.0.0.1', 53335)
+2021-07-11 18:24:18,861 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 18:24:18,863 INFO       server server.py The server runs at:127.0.0.8 port: 8888
+2021-07-11 18:24:23,693 INFO       server server.py Установлено соедение с ('127.0.0.1', 61351)
+2021-07-11 18:24:26,459 INFO       server server.py Установлено соедение с ('127.0.0.1', 61352)
+2021-07-11 18:24:34,581 INFO       server server.py Установлено соедение с ('127.0.0.1', 61642)
+2021-07-11 18:24:34,581 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:24:34,581 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:24:38,886 INFO       server server.py Установлено соедение с ('127.0.0.1', 61643)
+2021-07-11 18:24:38,886 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:26:51,579 INFO       server server.py Установлено соедение с ('127.0.0.1', 63563)
+2021-07-11 18:26:51,579 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:26:51,579 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:26:51,579 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:26:51,579 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:27:33,236 INFO       server server.py Установлено соедение с ('127.0.0.1', 63569)
+2021-07-11 18:27:33,236 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:27:38,602 INFO       server server.py Установлено соедение с ('127.0.0.1', 63570)
+2021-07-11 18:27:38,602 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:27:38,602 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:27:38,602 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:27:38,602 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:29:09,010 INFO       server server.py Установлено соедение с ('127.0.0.1', 60582)
+2021-07-11 18:29:09,012 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:29:15,324 INFO       server server.py Установлено соедение с ('127.0.0.1', 60583)
+2021-07-11 18:29:15,326 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:29:15,326 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:29:15,326 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:29:15,326 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:30:04,282 INFO       server server.py Установлено соедение с ('127.0.0.1', 56041)
+2021-07-11 18:30:04,282 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:30:04,282 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:30:42,965 INFO       server server.py Установлено соедение с ('127.0.0.1', 56045)
+2021-07-11 18:30:42,966 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:30:49,836 INFO       server server.py Установлено соедение с ('127.0.0.1', 56046)
+2021-07-11 18:30:49,836 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:30:49,836 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:30:49,836 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:30:49,838 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:31:24,680 INFO       server server.py Установлено соедение с ('127.0.0.1', 56048)
+2021-07-11 18:31:24,680 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:31:34,050 INFO       server server.py Установлено соедение с ('127.0.0.1', 56049)
+2021-07-11 18:31:34,050 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:31:34,050 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:31:43,086 INFO       server server.py Установлено соедение с ('127.0.0.1', 56050)
+2021-07-11 18:31:43,086 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:31:43,086 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:31:43,086 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:31:43,086 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:31:43,086 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:31:43,088 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:32:17,213 INFO       server server.py Установлено соедение с ('127.0.0.1', 56053)
+2021-07-11 18:32:17,215 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:32:39,228 INFO       server server.py Установлено соедение с ('127.0.0.1', 56055)
+2021-07-11 18:32:39,229 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:32:39,229 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:36:21,533 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 18:36:21,535 INFO       server server.py The server runs at:127.0.0.8 port: 8888
+2021-07-11 18:37:08,614 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 18:37:08,616 INFO       server server.py The server runs at:127.0.0.8 port: 8888
+2021-07-11 18:37:32,987 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 18:37:32,989 INFO       server server.py The server runs at:127.0.0.8 port: 8888
+2021-07-11 18:38:57,344 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 18:38:57,344 INFO       server server.py The server runs at:127.0.0.8 port: 8888
+2021-07-11 18:39:09,038 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 18:39:09,039 INFO       server server.py The server runs at:127.0.0.8 port: 8889
+2021-07-11 18:39:18,676 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 18:39:18,678 INFO       server server.py The server runs at:127.0.0.8 port: 8889
+2021-07-11 18:39:27,540 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 18:39:27,542 INFO       server server.py The server runs at:127.0.0.8 port: 8889
+2021-07-11 18:40:53,481 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 18:40:53,481 INFO       server server.py The server runs at:127.0.0.8 port: 8889
+2021-07-11 18:41:04,641 ERROR      server commands.py В файле конфигураций не хватает ключа: TIMEOUT
+2021-07-11 18:41:17,590 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 18:41:17,591 INFO       server server.py The server runs at:127.0.0.8 port: 8888
+2021-07-11 18:41:41,110 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 18:41:41,110 INFO       server server.py The server runs at:127.0.0.8 port: 8888
+2021-07-11 18:42:20,893 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 18:42:20,893 INFO       server server.py The server runs at:127.0.0.8 port: 8888
+2021-07-11 18:42:24,346 INFO       server server.py Установлено соедение с ('127.0.0.1', 49776)
+2021-07-11 18:42:27,289 INFO       server server.py Установлено соедение с ('127.0.0.1', 49777)
+2021-07-11 18:43:38,088 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 18:43:38,088 INFO       server server.py The server runs at:127.0.0.8 port: 8888
+2021-07-11 18:43:41,294 INFO       server server.py Установлено соедение с ('127.0.0.1', 63717)
+2021-07-11 18:43:44,199 INFO       server server.py Установлено соедение с ('127.0.0.1', 63718)
+2021-07-11 18:43:56,492 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 18:43:56,494 INFO       server server.py The server runs at:127.0.0.8 port: 8888
+2021-07-11 18:44:00,714 INFO       server server.py Установлено соедение с ('127.0.0.1', 64517)
+2021-07-11 18:44:05,760 INFO       server server.py Установлено соедение с ('127.0.0.1', 64518)
+2021-07-11 18:44:18,434 INFO       server server.py Установлено соедение с ('127.0.0.1', 64519)
+2021-07-11 18:44:18,436 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:44:18,436 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:45:27,192 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 18:45:27,194 INFO       server server.py The server runs at:127.0.0.8 port: 8888
+2021-07-11 18:45:33,662 INFO       server server.py Установлено соедение с ('127.0.0.1', 64524)
+2021-07-11 18:45:37,739 INFO       server server.py Установлено соедение с ('127.0.0.1', 64525)
+2021-07-11 18:47:33,653 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 18:47:54,929 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 18:47:54,931 INFO       server server.py The server runs at:127.0.0.8 port: 8888
+2021-07-11 18:47:59,688 INFO       server server.py Установлено соедение с ('127.0.0.1', 53052)
+2021-07-11 18:52:17,390 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 18:52:17,392 INFO       server server.py The server runs at:127.0.0.8 port: 8888
+2021-07-11 18:52:25,147 INFO       server server.py Установлено соедение с ('127.0.0.1', 51842)
+2021-07-11 18:52:35,489 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 18:52:35,491 INFO       server server.py The server runs at:127.0.0.8 port: 8888
+2021-07-11 18:52:38,671 INFO       server server.py Установлено соедение с ('127.0.0.1', 51843)
+2021-07-11 18:52:40,906 INFO       server server.py Установлено соедение с ('127.0.0.1', 51844)
+2021-07-11 18:52:49,378 INFO       server server.py Установлено соедение с ('127.0.0.1', 51845)
+2021-07-11 18:52:49,380 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:52:49,380 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:54:13,693 INFO       server server.py Установлено соедение с ('127.0.0.1', 51848)
+2021-07-11 18:54:13,693 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:54:13,693 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:54:16,812 INFO       server server.py Установлено соедение с ('127.0.0.1', 51849)
+2021-07-11 18:54:24,278 INFO       server server.py Установлено соедение с ('127.0.0.1', 51850)
+2021-07-11 18:54:24,278 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:54:24,278 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:54:24,278 ERROR      server commands.py Произошла ошибка - list.remove(x): x not in list
+2021-07-11 18:54:24,280 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:54:32,149 INFO       server server.py Установлено соедение с ('127.0.0.1', 51851)
+2021-07-11 18:54:32,149 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:54:32,149 ERROR      server commands.py Произошла ошибка - [WinError 10053] Программа на вашем хост-компьютере разорвала установленное подключение
+2021-07-11 18:54:32,149 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:54:32,149 ERROR      server commands.py Произошла ошибка - list.remove(x): x not in list
+2021-07-11 18:54:32,150 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:55:08,775 INFO       server server.py Установлено соедение с ('127.0.0.1', 51853)
+2021-07-11 18:55:08,776 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:55:12,041 INFO       server server.py Установлено соедение с ('127.0.0.1', 51854)
+2021-07-11 18:55:12,041 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:55:17,733 INFO       server server.py Установлено соедение с ('127.0.0.1', 51855)
+2021-07-11 18:55:17,733 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:55:17,733 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:55:24,956 INFO       server server.py Установлено соедение с ('127.0.0.1', 51856)
+2021-07-11 18:55:24,958 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:55:24,958 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:55:24,958 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:55:30,670 INFO       server server.py Установлено соедение с ('127.0.0.1', 51858)
+2021-07-11 18:55:30,670 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:55:30,670 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:55:30,670 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:55:30,670 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:57:59,621 INFO       server server.py Установлено соедение с ('127.0.0.1', 53378)
+2021-07-11 18:57:59,621 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:57:59,621 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:57:59,621 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:57:59,621 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:57:59,621 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:57:59,621 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:57:59,621 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:57:59,621 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:57:59,621 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:57:59,621 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:57:59,621 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:57:59,621 ERROR      server commands.py Произошла ошибка - list.remove(x): x not in list
+2021-07-11 18:59:57,164 INFO       server server.py Установлено соедение с ('127.0.0.1', 63077)
+2021-07-11 18:59:57,166 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 18:59:57,166 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 19:00:00,693 INFO       server server.py Установлено соедение с ('127.0.0.1', 63078)
+2021-07-11 19:00:00,693 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 19:00:00,693 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 19:00:05,050 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 19:00:05,050 INFO       server server.py The server runs at:127.0.0.8 port: 8888
+2021-07-11 19:00:25,250 INFO       server server.py Установлено соедение с ('127.0.0.1', 52090)
+2021-07-11 19:00:28,436 INFO       server server.py Установлено соедение с ('127.0.0.1', 52091)
+2021-07-11 19:02:32,896 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 19:02:32,898 INFO       server server.py The server runs at:127.0.0.8 port: 8888
+2021-07-11 19:03:01,636 INFO       server server.py Установлено соедение с ('127.0.0.1', 50452)
+2021-07-11 19:03:03,821 INFO       server server.py Установлено соедение с ('127.0.0.1', 50453)
+2021-07-11 19:04:24,139 INFO       server server.py Установлено соедение с ('127.0.0.1', 57174)
+2021-07-11 19:04:24,141 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 19:04:24,141 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 19:04:52,273 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 19:04:52,273 INFO       server server.py The server runs at:127.0.0.8 port: 8888
+2021-07-11 19:04:56,027 INFO       server server.py Установлено соедение с ('127.0.0.1', 52890)
+2021-07-11 19:04:58,585 INFO       server server.py Установлено соедение с ('127.0.0.1', 52892)
+2021-07-11 19:05:55,916 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 19:05:55,918 INFO       server server.py The server runs at:127.0.0.8 port: 8888
+2021-07-11 19:05:59,863 INFO       server server.py Установлено соедение с ('127.0.0.1', 55726)
+2021-07-11 19:06:03,036 INFO       server server.py Установлено соедение с ('127.0.0.1', 55727)
+2021-07-11 19:06:43,963 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 19:06:43,965 INFO       server server.py The server runs at:127.0.0.8 port: 8888
+2021-07-11 19:06:46,722 INFO       server server.py Установлено соедение с ('127.0.0.1', 53314)
+2021-07-11 19:06:49,382 INFO       server server.py Установлено соедение с ('127.0.0.1', 53315)
+2021-07-11 19:07:28,316 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 19:07:28,317 INFO       server server.py The server runs at:127.0.0.8 port: 8888
+2021-07-11 19:07:32,348 INFO       server server.py Установлено соедение с ('127.0.0.1', 53317)
+2021-07-11 19:07:34,920 INFO       server server.py Установлено соедение с ('127.0.0.1', 53318)
+2021-07-11 19:08:30,301 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 19:08:30,302 INFO       server server.py The server runs at:127.0.0.8 port: 8888
+2021-07-11 19:08:33,175 INFO       server server.py Установлено соедение с ('127.0.0.1', 58524)
+2021-07-11 19:08:36,830 INFO       server server.py Установлено соедение с ('127.0.0.1', 58525)
+2021-07-11 19:09:16,917 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 19:09:16,918 INFO       server server.py The server runs at:127.0.0.8 port: 8888
+2021-07-11 19:09:20,029 INFO       server server.py Установлено соедение с ('127.0.0.1', 58360)
+2021-07-11 19:09:23,384 INFO       server server.py Установлено соедение с ('127.0.0.1', 58361)
+2021-07-11 19:09:30,278 INFO       server server.py Установлено соедение с ('127.0.0.1', 58370)
+2021-07-11 19:09:30,278 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 19:09:30,278 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 19:09:49,706 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 19:09:49,708 INFO       server server.py The server runs at:127.0.0.8 port: 8888
+2021-07-11 19:09:52,571 INFO       server server.py Установлено соедение с ('127.0.0.1', 58372)
+2021-07-11 19:09:57,295 INFO       server server.py Установлено соедение с ('127.0.0.1', 58373)
+2021-07-11 19:10:02,008 INFO       server server.py Установлено соедение с ('127.0.0.1', 58374)
+2021-07-11 19:10:02,008 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 19:10:02,010 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 19:16:20,966 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 19:16:20,968 INFO       server server.py The server runs at:127.0.0.8 port: 8888
+2021-07-11 19:16:24,369 INFO       server server.py Установлено соедение с ('127.0.0.1', 63376)
+2021-07-11 19:16:27,250 INFO       server server.py Установлено соедение с ('127.0.0.1', 63377)
+2021-07-11 19:17:08,897 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 19:17:08,898 INFO       server server.py The server runs at:127.0.0.8 port: 8888
+2021-07-11 19:17:12,339 INFO       server server.py Установлено соедение с ('127.0.0.1', 63380)
+2021-07-11 19:17:18,259 INFO       server server.py Установлено соедение с ('127.0.0.1', 63381)
+2021-07-11 19:17:35,395 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 19:17:35,610 INFO       server server.py Установлено соедение с ('127.0.0.1', 64609)
+2021-07-11 19:17:38,398 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 19:17:38,399 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 19:17:40,631 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 19:17:40,832 INFO       server server.py Установлено соедение с ('127.0.0.1', 64610)
+2021-07-11 19:22:55,828 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 19:22:55,829 INFO       server server.py The server runs at:127.0.0.8 port: 8888
+2021-07-11 19:22:58,532 INFO       server server.py Установлено соедение с ('127.0.0.1', 55530)
+2021-07-11 19:23:01,234 INFO       server server.py Установлено соедение с ('127.0.0.1', 55531)
+2021-07-11 19:23:09,856 INFO       server server.py Установлено соедение с ('127.0.0.1', 55532)
+2021-07-11 19:23:09,856 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 19:23:09,856 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 19:23:09,858 ERROR      server commands.py Произошла ошибка - a bytes-like object is required, not 'list'
+2021-07-11 19:23:09,858 ERROR      server commands.py Произошла ошибка - a bytes-like object is required, not 'list'
+2021-07-11 19:24:07,239 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 19:24:07,239 INFO       server server.py The server runs at:127.0.0.8 port: 8888
+2021-07-11 19:24:10,297 INFO       server server.py Установлено соедение с ('127.0.0.1', 59378)
+2021-07-11 19:24:17,004 INFO       server server.py Установлено соедение с ('127.0.0.1', 59379)
+2021-07-11 19:24:24,184 INFO       server server.py Установлено соедение с ('127.0.0.1', 59380)
+2021-07-11 19:24:24,184 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 19:24:24,184 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 19:24:24,186 ERROR      server commands.py Произошла ошибка - a bytes-like object is required, not 'list'
+2021-07-11 19:24:24,186 ERROR      server commands.py Произошла ошибка - a bytes-like object is required, not 'list'
+2021-07-11 19:26:52,800 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 19:26:52,802 INFO       server server.py The server runs at:127.0.0.8 port: 8888
+2021-07-11 19:26:57,042 INFO       server server.py Установлено соедение с ('127.0.0.1', 58899)
+2021-07-11 19:27:01,029 INFO       server server.py Установлено соедение с ('127.0.0.1', 58900)
+2021-07-11 19:27:08,243 INFO       server server.py Установлено соедение с ('127.0.0.1', 58902)
+2021-07-11 19:27:08,245 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 19:27:08,245 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 19:27:08,245 ERROR      server commands.py Произошла ошибка - a bytes-like object is required, not 'list'
+2021-07-11 19:27:08,245 ERROR      server commands.py Произошла ошибка - a bytes-like object is required, not 'list'
+2021-07-11 19:27:46,163 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 19:27:46,166 INFO       server server.py The server runs at:127.0.0.8 port: 8888
+2021-07-11 19:27:49,217 INFO       server server.py Установлено соедение с ('127.0.0.1', 58908)
+2021-07-11 19:27:55,014 INFO       server server.py Установлено соедение с ('127.0.0.1', 58909)
+2021-07-11 19:28:01,279 INFO       server server.py Установлено соедение с ('127.0.0.1', 58910)
+2021-07-11 19:28:01,279 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 19:28:01,279 ERROR      server commands.py Произошла ошибка - a bytes-like object is required, not 'list'
+2021-07-11 19:28:01,279 ERROR      server commands.py Произошла ошибка - a bytes-like object is required, not 'list'
+2021-07-11 19:28:01,279 ERROR      server commands.py Произошла ошибка - a bytes-like object is required, not 'list'
+2021-07-11 19:28:01,279 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 19:29:14,922 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 19:29:14,924 INFO       server server.py The server runs at:127.0.0.8 port: 8888
+2021-07-11 19:29:18,546 INFO       server server.py Установлено соедение с ('127.0.0.1', 63187)
+2021-07-11 19:29:21,537 INFO       server server.py Установлено соедение с ('127.0.0.1', 64656)
+2021-07-11 19:29:33,102 INFO       server server.py Установлено соедение с ('127.0.0.1', 64657)
+2021-07-11 19:29:33,102 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 19:29:33,102 ERROR      server commands.py  COMMANDS Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 19:29:33,102 ERROR      server commands.py Произошла ошибка - a bytes-like object is required, not 'list'
+2021-07-11 19:29:33,102 ERROR      server commands.py Произошла ошибка - a bytes-like object is required, not 'list'
+2021-07-11 19:33:50,962 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 19:33:50,963 INFO       server server.py The server runs at:127.0.0.8 port: 8888
+2021-07-11 19:33:54,637 INFO       server server.py Установлено соедение с ('127.0.0.1', 54495)
+2021-07-11 19:33:57,721 INFO       server server.py Установлено соедение с ('127.0.0.1', 54497)
+2021-07-11 19:34:03,472 INFO       server server.py Установлено соедение с ('127.0.0.1', 54498)
+2021-07-11 19:34:03,472 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 19:34:03,472 ERROR      server commands.py  COMMANDS Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 19:34:09,484 INFO       server server.py Установлено соедение с ('127.0.0.1', 54499)
+2021-07-11 19:34:22,209 INFO       server server.py Установлено соедение с ('127.0.0.1', 54500)
+2021-07-11 19:34:22,209 ERROR      server commands.py  COMMANDS Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 19:34:50,336 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 19:34:50,337 INFO       server server.py The server runs at:127.0.0.8 port: 8888
+2021-07-11 19:34:54,155 INFO       server server.py Установлено соедение с ('127.0.0.1', 50749)
+2021-07-11 19:34:57,291 INFO       server server.py Установлено соедение с ('127.0.0.1', 50750)
+2021-07-11 19:35:05,930 INFO       server server.py Установлено соедение с ('127.0.0.1', 50751)
+2021-07-11 19:35:05,930 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 19:35:05,930 ERROR      server commands.py  COMMANDS Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 19:35:42,477 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 19:35:42,478 INFO       server server.py The server runs at:127.0.0.8 port: 8888
+2021-07-11 19:35:45,020 INFO       server server.py Установлено соедение с ('127.0.0.1', 50480)
+2021-07-11 19:35:47,304 INFO       server server.py Установлено соедение с ('127.0.0.1', 50481)
+2021-07-11 19:36:19,073 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 19:36:19,073 INFO       server server.py The server runs at:127.0.0.8 port: 8888
+2021-07-11 19:36:22,667 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 19:36:22,668 INFO       server server.py The server runs at:127.0.0.8 port: 8888
+2021-07-11 19:36:25,884 INFO       server server.py Установлено соедение с ('127.0.0.1', 63550)
+2021-07-11 19:36:27,380 INFO       server server.py Установлено соедение с ('127.0.0.1', 63551)
+2021-07-11 19:36:32,485 INFO       server server.py Установлено соедение с ('127.0.0.1', 63552)
+2021-07-11 19:36:32,485 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 19:36:32,485 ERROR      server commands.py  COMMANDS Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 19:36:34,304 INFO       server server.py Установлено соедение с ('127.0.0.1', 60265)
+2021-07-11 19:36:34,305 ERROR      server commands.py  COMMANDS Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 19:36:40,959 INFO       server server.py Установлено соедение с ('127.0.0.1', 60266)
+2021-07-11 19:36:40,959 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 19:36:40,959 ERROR      server commands.py Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 19:36:40,960 ERROR      server commands.py  COMMANDS Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 19:36:40,960 ERROR      server commands.py  COMMANDS Произошла ошибка - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 20:14:21,062 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 20:16:01,380 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 20:16:13,559 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 20:16:13,560 INFO       server server.py The server runs at:127.0.0.8 port: 8898
+2021-07-11 20:16:29,327 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 20:16:29,328 INFO       server server.py The server runs at:127.0.0.8 port: 8898
+2021-07-11 20:16:34,738 INFO       server server.py Установлено соедение с ('127.0.0.1', 61547)
+2021-07-11 20:16:38,036 INFO       server server.py Установлено соедение с ('127.0.0.1', 61548)
+2021-07-11 20:16:48,171 INFO       server server.py Установлено соедение с ('127.0.0.1', 61549)
+2021-07-11 20:16:56,408 INFO       server server.py Установлено соедение с ('127.0.0.1', 61550)
+2021-07-11 20:17:41,330 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 20:17:41,331 INFO       server server.py The server runs at:127.0.0.8 port: 8898
+2021-07-11 20:17:44,360 INFO       server server.py Установлено соедение с ('127.0.0.1', 61552)
+2021-07-11 20:17:47,587 INFO       server server.py Установлено соедение с ('127.0.0.1', 52205)
+2021-07-11 20:18:11,940 INFO       server server.py Установлено соедение с ('127.0.0.1', 52206)
+2021-07-11 20:18:46,540 INFO       server server.py Установлено соедение с ('127.0.0.1', 52209)
+2021-07-11 20:19:11,083 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 20:19:11,085 INFO       server server.py The server runs at:127.0.0.8 port: 8898
+2021-07-11 20:22:25,184 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 20:22:25,186 INFO       server server.py The server runs at:127.0.0.8 port: 8898
+2021-07-11 20:23:05,859 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 20:23:05,859 INFO       server server.py The server runs at:127.0.0.8 port: 8898
+2021-07-11 20:24:38,340 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 20:24:38,341 INFO       server server.py The server runs at:127.0.0.8 port: 8898
+2021-07-11 20:24:45,157 INFO       server server.py Установлено соедение с ('127.0.0.1', 56959)
+2021-07-11 20:24:47,562 INFO       server server.py Установлено соедение с ('127.0.0.1', 56960)
+2021-07-11 20:25:00,138 INFO       server server.py Установлено соедение с ('127.0.0.1', 56961)
+2021-07-11 20:26:18,729 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 20:26:18,731 INFO       server server.py The server runs at:127.0.0.8 port: 8898
+2021-07-11 20:26:25,077 INFO       server server.py Установлено соедение с ('127.0.0.1', 56964)
+2021-07-11 20:26:26,757 ERROR      server server.py Принято некорретное сообщение от клиента - <class 'ValueError'>
+2021-07-11 20:26:30,974 INFO       server server.py Установлено соедение с ('127.0.0.1', 56965)
+2021-07-11 20:29:45,590 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 20:29:45,592 INFO       server server.py The server runs at:127.0.0.8 port: 8898
+2021-07-11 20:29:54,160 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 20:30:02,282 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 20:30:12,079 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 20:30:12,081 INFO       server server.py The server runs at:127.0.0.8 port: 8887
+2021-07-11 20:30:16,254 INFO       server server.py Установлено соедение с ('127.0.0.1', 54293)
+2021-07-11 20:30:22,874 ERROR      server server.py Принято некорретное сообщение от клиента - <class 'ValueError'>
+2021-07-11 20:30:22,874 INFO       server server.py Установлено соедение с ('127.0.0.1', 54294)
+2021-07-11 20:30:59,359 DEBUG      server logs_decorator.py функция: run_server, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 20:30:59,360 INFO       server server.py The server runs at:127.0.0.8 port: 8887
+2021-07-11 20:31:03,073 INFO       server server.py Установлено соедение с ('127.0.0.1', 61227)
+2021-07-11 20:31:05,599 INFO       server server.py Установлено соедение с ('127.0.0.1', 61228)
+2021-07-11 20:31:13,210 INFO       server server.py Установлено соедение с ('127.0.0.1', 61229)
+2021-07-11 20:31:13,210 ERROR      server commands.py COMMANDS remove <socket.socket fd=264, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.8', 8887), raddr=('127.0.0.1', 61228)> err == [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 20:31:13,210 ERROR      server commands.py DONE ERR [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 20:31:23,054 INFO       server server.py Установлено соедение с ('127.0.0.1', 61230)
+2021-07-11 20:31:23,054 ERROR      server commands.py COMMANDS remove <socket.socket fd=364, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.8', 8887), raddr=('127.0.0.1', 61229)> err == [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 20:31:23,054 ERROR      server commands.py DONE ERR [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 20:33:29,360 INFO       server server.py Установлено соедение с ('127.0.0.1', 62884)
+2021-07-11 20:33:29,360 ERROR      server commands.py COMMANDS remove <socket.socket fd=368, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.8', 8887), raddr=('127.0.0.1', 61230)> err == [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 20:33:29,360 ERROR      server commands.py DONE ERR [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 20:34:21,316 INFO       server server.py Установлено соедение с ('127.0.0.1', 62887)
+2021-07-11 20:34:21,316 ERROR      server commands.py COMMANDS remove <socket.socket fd=360, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.8', 8887), raddr=('127.0.0.1', 62884)> err == [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 20:34:21,316 ERROR      server commands.py DONE ERR [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 20:34:43,788 INFO       server server.py Установлено соедение с ('127.0.0.1', 62890)
+2021-07-11 20:34:49,442 INFO       server server.py Установлено соедение с ('127.0.0.1', 62891)
+2021-07-11 20:34:49,444 ERROR      server commands.py COMMANDS remove <socket.socket fd=364, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.8', 8887), raddr=('127.0.0.1', 62890)> err == [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 20:34:49,444 ERROR      server commands.py DONE ERR [WinError 10053] Программа на вашем хост-компьютере разорвала установленное подключение
+2021-07-11 20:34:49,444 ERROR      server commands.py DONE ERR [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 20:35:31,450 INFO       server server.py Установлено соедение с ('127.0.0.1', 62892)
+2021-07-11 20:35:31,450 ERROR      server commands.py DONE ERR [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 20:35:31,450 ERROR      server commands.py DONE ERR [WinError 10053] Программа на вашем хост-компьютере разорвала установленное подключение
+2021-07-11 20:35:31,450 ERROR      server commands.py COMMANDS remove <socket.socket fd=392, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.8', 8887), raddr=('127.0.0.1', 61227)> err == [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-11 20:35:31,451 ERROR      server commands.py COMMANDS remove <socket.socket fd=264, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.8', 8887), raddr=('127.0.0.1', 62887)> err == [WinError 10053] Программа на вашем хост-компьютере разорвала установленное подключение

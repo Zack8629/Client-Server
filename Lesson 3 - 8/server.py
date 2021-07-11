@@ -1,5 +1,6 @@
 import json
 import logging
+from select import select
 from socket import socket, AF_INET, SOCK_STREAM
 
 from services import commands
@@ -19,7 +20,10 @@ def handle_message(message):
             and config.get('TIME') in message \
             and config.get('USER') in message \
             and message[config.get('USER')][config.get('ACCOUNT_NAME')] == 'Guest':
+        server_logger.debug(f'Ответ успешно сформирован - КОД = 200')
         return {config.get('RESPONSE'): 200}
+
+    server_logger.error(f'Некорректное сообщение от клиента "{message}". Ответ от сервера - КОД = 400')
     return {
         config.get('RESPONSE'): 400,
         config.get('ERROR'): 'Bad Request'
@@ -34,20 +38,38 @@ def run_server():
     server_socket = socket(AF_INET, SOCK_STREAM)
     server_socket.bind((address, port))
     server_socket.listen(config.get('MAX_CONNECTIONS'))
+    # # server_socket.settimeout(config.get('TIMEOUT'))
 
     server_logger.info(f'The server runs at:{address or config.get("DEFAULT_IP_ADDRESS")} port: {port}')
     print(f'The server runs at:{address or config.get("DEFAULT_IP_ADDRESS")} port: {port}')
+
+    list_connected_clients = []
     while True:
-        client, client_address = server_socket.accept()
         try:
-            message = commands.get_message(client, config)
-            response = handle_message(message)
-            commands.send_message(client, response, config)
-            client.close()
-        except (ValueError, json.JSONDecodeError):
-            server_logger.error('Принято некорретное сообщение от клиента')
-            # print('Принято некорретное сообщение от клиента')
-            client.close()
+            client, client_address = server_socket.accept()
+            list_connected_clients.append(client)
+            print(f'Установлено соедение с {client_address}')
+            server_logger.info(f'Установлено соедение с {client_address}')
+
+        except(ValueError, json.JSONDecodeError):
+            server_logger.error(f'Принято некорретное сообщение от клиента - {ValueError}')
+            print('Принято некорретное сообщение от клиента')
+
+        read_clients, write_clients, err_list = [], [], []
+        try:
+            read_clients, write_clients, err_list = select(list_connected_clients,
+                                                           list_connected_clients,
+                                                           [], 0)
+
+        except Exception as e:
+            server_logger.error(f'Произошла ошибка - {e}')
+            print(f'SERVER Произошла ошибка - {e}')
+
+        commands.get_requests_clients(read_clients,
+                                      write_clients,
+                                      list_connected_clients,
+                                      config,
+                                      server_name_logger)
 
 
 if __name__ == '__main__':

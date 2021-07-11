@@ -49,3 +49,898 @@
 2021-07-07 00:00:28,279 DEBUG      client client.py Ответ от сервера: {'response': 200}
 2021-07-07 00:00:28,280 DEBUG      client client.py 200 : OK
 2021-07-07 00:00:28,280 INFO       client client.py Client connected at address: 127.0.0.8 port: 8889 
+2021-07-08 23:59:30,167 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-08 23:59:43,762 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-08 23:59:43,765 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-08 23:59:43,768 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-08 23:59:43,769 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-08 23:59:43,769 DEBUG      client client.py 200 : OK
+2021-07-08 23:59:43,769 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-08 23:59:57,053 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-08 23:59:57,057 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-08 23:59:57,063 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-08 23:59:57,064 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-08 23:59:57,064 DEBUG      client client.py 200 : OK
+2021-07-08 23:59:57,064 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-08 23:59:57,179 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-08 23:59:57,247 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-08 23:59:57,252 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-08 23:59:57,253 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-08 23:59:57,253 DEBUG      client client.py 200 : OK
+2021-07-08 23:59:57,253 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-08 23:59:57,262 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-08 23:59:57,268 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-08 23:59:57,273 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-08 23:59:57,273 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-08 23:59:57,273 DEBUG      client client.py 200 : OK
+2021-07-08 23:59:57,273 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-08 23:59:57,277 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-08 23:59:57,281 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-08 23:59:57,286 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-08 23:59:57,286 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-08 23:59:57,287 DEBUG      client client.py 200 : OK
+2021-07-08 23:59:57,287 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-08 23:59:57,620 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-08 23:59:57,625 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-08 23:59:57,632 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-08 23:59:57,633 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-08 23:59:57,633 DEBUG      client client.py 200 : OK
+2021-07-08 23:59:57,634 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-08 23:59:57,646 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-08 23:59:57,656 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-08 23:59:57,667 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-08 23:59:57,667 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-08 23:59:57,667 DEBUG      client client.py 200 : OK
+2021-07-08 23:59:57,667 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-08 23:59:57,964 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-08 23:59:57,970 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-08 23:59:57,977 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-08 23:59:57,977 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-08 23:59:57,977 DEBUG      client client.py 200 : OK
+2021-07-08 23:59:57,978 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-08 23:59:58,158 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-08 23:59:58,164 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-08 23:59:58,182 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-08 23:59:58,182 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-08 23:59:58,183 DEBUG      client client.py 200 : OK
+2021-07-08 23:59:58,183 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-08 23:59:58,203 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-08 23:59:58,210 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-08 23:59:58,217 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-08 23:59:58,217 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-08 23:59:58,218 DEBUG      client client.py 200 : OK
+2021-07-08 23:59:58,218 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-08 23:59:58,319 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-08 23:59:58,323 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-08 23:59:58,327 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-08 23:59:58,327 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-08 23:59:58,327 DEBUG      client client.py 200 : OK
+2021-07-08 23:59:58,328 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:00:24,855 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:00:24,879 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:00:24,886 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:00:24,886 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:00:24,886 DEBUG      client client.py 200 : OK
+2021-07-09 00:00:24,887 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:00:24,987 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:00:24,992 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:00:25,003 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:00:25,003 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:00:25,003 DEBUG      client client.py 200 : OK
+2021-07-09 00:00:25,003 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:00:25,007 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:00:25,014 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:00:25,018 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:00:25,019 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:00:25,019 DEBUG      client client.py 200 : OK
+2021-07-09 00:00:25,019 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:00:25,136 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:00:25,164 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:00:25,169 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:00:25,170 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:00:25,170 DEBUG      client client.py 200 : OK
+2021-07-09 00:00:25,170 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:00:25,375 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:00:25,379 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:00:25,389 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:00:25,392 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:00:25,395 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:00:25,395 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:00:25,395 DEBUG      client client.py 200 : OK
+2021-07-09 00:00:25,395 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:00:25,398 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:00:25,398 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:00:25,399 DEBUG      client client.py 200 : OK
+2021-07-09 00:00:25,399 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:00:25,458 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:00:25,463 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:00:25,469 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:00:25,469 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:00:25,469 DEBUG      client client.py 200 : OK
+2021-07-09 00:00:25,469 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:00:25,589 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:00:25,596 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:00:25,602 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:00:25,602 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:00:25,602 DEBUG      client client.py 200 : OK
+2021-07-09 00:00:25,603 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:00:25,693 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:00:25,693 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:00:25,695 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:00:25,696 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:00:25,700 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:00:25,701 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:00:25,701 DEBUG      client client.py 200 : OK
+2021-07-09 00:00:25,701 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:00:25,704 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:00:25,705 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:00:25,705 DEBUG      client client.py 200 : OK
+2021-07-09 00:00:25,705 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:00:30,671 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:00:30,676 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:00:30,686 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:00:30,686 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:00:30,686 DEBUG      client client.py 200 : OK
+2021-07-09 00:00:30,686 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:00:30,729 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:00:30,739 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:00:30,744 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:00:30,746 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:00:30,746 DEBUG      client client.py 200 : OK
+2021-07-09 00:00:30,746 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:00:30,900 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:00:30,939 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:00:30,943 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:00:30,943 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:00:30,943 DEBUG      client client.py 200 : OK
+2021-07-09 00:00:30,943 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:00:31,101 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:00:31,119 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:00:31,125 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:00:31,126 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:00:31,126 DEBUG      client client.py 200 : OK
+2021-07-09 00:00:31,126 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:00:31,196 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:00:31,199 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:00:31,212 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:00:31,212 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:00:31,212 DEBUG      client client.py 200 : OK
+2021-07-09 00:00:31,213 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:00:31,255 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:00:31,262 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:00:31,271 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:00:31,271 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:00:31,271 DEBUG      client client.py 200 : OK
+2021-07-09 00:00:31,271 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:00:31,412 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:00:31,415 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:00:31,416 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:00:31,422 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:00:31,423 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:00:31,423 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:00:31,423 DEBUG      client client.py 200 : OK
+2021-07-09 00:00:31,423 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:00:31,429 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:00:31,429 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:00:31,429 DEBUG      client client.py 200 : OK
+2021-07-09 00:00:31,429 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:00:31,429 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:00:31,435 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:00:31,440 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:00:31,441 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:00:31,441 DEBUG      client client.py 200 : OK
+2021-07-09 00:00:31,441 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:00:31,483 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:00:31,489 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:00:31,495 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:00:31,496 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:00:31,496 DEBUG      client client.py 200 : OK
+2021-07-09 00:00:31,496 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:00:39,169 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:00:39,173 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+кции: run_client.
+2021-07-09 00:00:39,177 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:00:39,178 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:00:39,178 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:00:39,179 DEBUG      client client.py 200 : OK
+2021-07-09 00:00:39,179 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:00:39,183 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:00:39,184 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:00:39,184 DEBUG      client client.py 200 : OK
+2021-07-09 00:00:39,185 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:00:39,298 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:00:39,308 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:00:39,312 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:00:39,313 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:00:39,313 DEBUG      client client.py 200 : OK
+2021-07-09 00:00:39,313 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:00:39,331 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:00:39,342 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:00:39,347 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:00:39,347 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:00:39,347 DEBUG      client client.py 200 : OK
+2021-07-09 00:00:39,348 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:00:39,588 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:00:39,593 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:00:39,598 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:00:39,598 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:00:39,598 DEBUG      client client.py 200 : OK
+2021-07-09 00:00:39,599 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:00:39,681 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:00:39,685 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:00:39,691 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:00:39,692 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:00:39,692 DEBUG      client client.py 200 : OK
+2021-07-09 00:00:39,692 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:00:39,819 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:00:39,829 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:00:39,835 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:00:39,835 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:00:39,835 DEBUG      client client.py 200 : OK
+2021-07-09 00:00:39,835 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:00:39,980 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:00:39,985 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:00:39,989 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:00:39,990 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:00:39,991 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:00:39,991 DEBUG      client client.py 200 : OK
+2021-07-09 00:00:39,991 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:00:39,992 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:00:39,993 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:00:39,996 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:00:39,996 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:00:39,996 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:00:39,996 DEBUG      client client.py 200 : OK
+2021-07-09 00:00:39,996 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:00:40,000 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:00:40,000 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:00:40,000 DEBUG      client client.py 200 : OK
+2021-07-09 00:00:40,000 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:30:25,769 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:30:25,773 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:30:25,777 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:30:25,778 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:30:25,778 DEBUG      client client.py 200 : OK
+2021-07-09 00:30:25,779 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:30:25,782 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:30:25,786 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:30:25,791 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:30:25,791 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:30:25,791 DEBUG      client client.py 200 : OK
+2021-07-09 00:30:25,792 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:30:25,822 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:30:25,828 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:30:25,837 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:30:25,837 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:30:25,838 DEBUG      client client.py 200 : OK
+2021-07-09 00:30:25,838 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:30:25,934 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:30:25,940 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:30:25,947 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:30:25,949 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:30:25,949 DEBUG      client client.py 200 : OK
+2021-07-09 00:30:25,950 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:30:26,085 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:30:26,089 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:30:26,097 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:30:26,099 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:30:26,099 DEBUG      client client.py 200 : OK
+2021-07-09 00:30:26,100 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:30:26,169 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:30:26,172 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:30:26,177 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:30:26,178 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:30:26,178 DEBUG      client client.py 200 : OK
+2021-07-09 00:30:26,178 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:30:26,296 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:30:26,301 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:30:26,308 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:30:26,309 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:30:26,309 DEBUG      client client.py 200 : OK
+2021-07-09 00:30:26,310 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:30:26,445 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:30:26,452 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:30:26,457 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:30:26,457 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:30:26,458 DEBUG      client client.py 200 : OK
+2021-07-09 00:30:26,458 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:30:26,634 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:30:26,639 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:30:26,643 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:30:26,644 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:30:26,644 DEBUG      client client.py 200 : OK
+2021-07-09 00:30:26,644 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:30:26,652 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:30:26,655 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:30:26,658 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:30:26,659 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:30:26,659 DEBUG      client client.py 200 : OK
+2021-07-09 00:30:26,659 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:30:53,232 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:30:53,234 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:30:53,237 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:30:53,237 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:30:53,237 DEBUG      client client.py 200 : OK
+2021-07-09 00:30:53,237 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:30:53,258 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:30:53,262 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:30:53,267 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:30:53,267 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:30:53,267 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:30:53,268 DEBUG      client client.py 200 : OK
+2021-07-09 00:30:53,268 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:30:53,269 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:30:53,272 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:30:53,272 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:30:53,272 DEBUG      client client.py 200 : OK
+2021-07-09 00:30:53,272 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:31:20,013 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:31:20,016 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:31:20,018 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:31:20,018 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:31:20,018 DEBUG      client client.py 200 : OK
+2021-07-09 00:31:20,019 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:31:20,029 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:31:20,032 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:31:20,035 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:31:20,035 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:31:20,035 DEBUG      client client.py 200 : OK
+2021-07-09 00:31:20,036 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:31:24,611 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:31:24,613 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:31:24,616 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:31:24,616 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:31:24,617 DEBUG      client client.py 200 : OK
+2021-07-09 00:31:24,617 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:31:24,628 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:31:24,630 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:31:24,634 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:31:24,634 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:31:24,635 DEBUG      client client.py 200 : OK
+2021-07-09 00:31:24,635 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:33:05,457 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:33:05,461 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:33:05,465 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:33:05,465 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:33:05,465 DEBUG      client client.py 200 : OK
+2021-07-09 00:33:05,465 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:33:05,527 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:33:05,532 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:33:05,537 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:33:05,537 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:33:05,537 DEBUG      client client.py 200 : OK
+2021-07-09 00:33:05,537 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:33:05,576 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:33:05,581 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:33:05,585 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:33:05,585 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:33:05,585 DEBUG      client client.py 200 : OK
+2021-07-09 00:33:05,586 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:33:05,634 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:33:05,638 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:33:05,642 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:33:05,643 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:33:05,643 DEBUG      client client.py 200 : OK
+2021-07-09 00:33:05,643 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:33:05,650 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:33:05,654 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:33:05,659 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:33:05,659 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:33:05,659 DEBUG      client client.py 200 : OK
+2021-07-09 00:33:05,659 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:35:07,587 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:35:07,589 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:35:07,591 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:35:07,592 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:35:07,592 DEBUG      client client.py 200 : OK
+2021-07-09 00:35:07,592 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:35:47,971 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:35:47,973 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:35:47,976 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:35:47,977 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:35:47,977 DEBUG      client client.py 200 : OK
+2021-07-09 00:35:47,977 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:36:02,984 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:36:02,986 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:36:02,990 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:36:02,990 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:36:02,990 DEBUG      client client.py 200 : OK
+2021-07-09 00:36:02,990 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:36:09,679 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:36:09,681 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:36:09,684 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:36:09,684 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:36:09,684 DEBUG      client client.py 200 : OK
+2021-07-09 00:36:09,684 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:36:26,011 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:36:26,015 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:36:26,020 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:36:26,020 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:36:26,021 DEBUG      client client.py 200 : OK
+2021-07-09 00:36:26,021 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:36:37,091 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:36:37,094 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:36:37,099 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:36:37,099 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:36:37,099 DEBUG      client client.py 200 : OK
+2021-07-09 00:36:37,099 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:36:41,002 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:36:41,015 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:36:41,032 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:36:41,037 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:36:41,041 DEBUG      client client.py 200 : OK
+2021-07-09 00:36:41,045 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:40:18,417 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:40:18,423 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:40:18,430 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:40:18,430 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:40:18,430 DEBUG      client client.py 200 : OK
+2021-07-09 00:40:18,430 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:40:18,466 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:40:18,471 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:40:18,475 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:40:18,475 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:40:18,475 DEBUG      client client.py 200 : OK
+2021-07-09 00:40:18,475 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:40:18,485 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:40:18,488 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:40:18,491 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:40:18,491 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:40:18,492 DEBUG      client client.py 200 : OK
+2021-07-09 00:40:18,492 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:40:18,541 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:40:18,543 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:40:18,546 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:40:18,546 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:40:18,546 DEBUG      client client.py 200 : OK
+2021-07-09 00:40:18,547 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:40:18,561 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:40:18,565 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:40:18,570 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:40:18,570 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:40:18,570 DEBUG      client client.py 200 : OK
+2021-07-09 00:40:18,570 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:40:48,420 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:40:48,425 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:40:48,428 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:40:48,429 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:40:48,429 DEBUG      client client.py 200 : OK
+2021-07-09 00:40:48,429 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:40:48,510 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:40:48,513 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:40:48,517 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:40:48,517 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:40:48,517 DEBUG      client client.py 200 : OK
+2021-07-09 00:40:48,517 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:40:48,557 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:40:48,562 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:40:48,566 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:40:48,566 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:40:48,566 DEBUG      client client.py 200 : OK
+2021-07-09 00:40:48,566 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:40:48,570 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:40:48,575 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:40:48,579 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:40:48,579 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:40:48,579 DEBUG      client client.py 200 : OK
+2021-07-09 00:40:48,579 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:40:48,609 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:40:48,611 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:40:48,615 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:40:48,615 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:40:48,615 DEBUG      client client.py 200 : OK
+2021-07-09 00:40:48,615 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:41:02,576 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:41:02,586 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:41:02,590 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:41:02,591 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:41:02,591 DEBUG      client client.py 200 : OK
+2021-07-09 00:41:02,591 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:41:02,681 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:41:02,684 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:41:02,688 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:41:02,688 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:41:02,688 DEBUG      client client.py 200 : OK
+2021-07-09 00:41:02,688 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:41:02,689 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:41:02,692 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:41:02,697 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:41:02,698 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:41:02,698 DEBUG      client client.py 200 : OK
+2021-07-09 00:41:02,698 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:41:02,715 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:41:02,718 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:41:02,722 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:41:02,723 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:41:02,723 DEBUG      client client.py 200 : OK
+2021-07-09 00:41:02,723 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:41:02,745 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:41:02,749 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:41:02,752 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:41:02,752 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:41:02,752 DEBUG      client client.py 200 : OK
+2021-07-09 00:41:02,752 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:41:32,246 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:41:32,249 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:41:32,254 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:41:32,254 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:41:32,254 DEBUG      client client.py 200 : OK
+2021-07-09 00:41:32,254 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:41:32,296 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:41:32,299 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:41:32,302 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:41:32,303 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:41:32,303 DEBUG      client client.py 200 : OK
+2021-07-09 00:41:32,303 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:41:32,323 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:41:32,325 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:41:32,329 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:41:32,329 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:41:32,329 DEBUG      client client.py 200 : OK
+2021-07-09 00:41:32,329 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:45:43,398 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:45:43,401 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:45:43,404 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:45:43,405 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:45:43,405 DEBUG      client client.py 200 : OK
+2021-07-09 00:45:43,405 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:45:43,449 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:45:43,452 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:45:43,455 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:45:43,455 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:45:43,455 DEBUG      client client.py 200 : OK
+2021-07-09 00:45:43,455 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:45:43,465 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:45:43,468 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:45:43,472 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:45:43,472 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:45:43,472 DEBUG      client client.py 200 : OK
+2021-07-09 00:45:43,472 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:45:57,849 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:45:57,851 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:45:57,856 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:45:57,856 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:45:57,856 DEBUG      client client.py 200 : OK
+2021-07-09 00:45:57,856 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:45:57,886 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:45:57,888 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:45:57,890 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:45:57,892 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:45:57,893 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:45:57,893 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:45:57,893 DEBUG      client client.py 200 : OK
+2021-07-09 00:45:57,894 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:45:57,894 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:45:57,895 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:45:57,895 DEBUG      client client.py 200 : OK
+2021-07-09 00:45:57,895 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:47:41,647 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:47:41,649 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:47:41,653 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:47:41,653 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:47:41,653 DEBUG      client client.py 200 : OK
+2021-07-09 00:47:41,653 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:47:41,688 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:47:41,691 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:47:41,697 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:47:41,698 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:47:41,698 DEBUG      client client.py 200 : OK
+2021-07-09 00:47:41,698 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:47:41,710 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:47:41,715 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:47:41,719 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:47:41,719 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:47:41,719 DEBUG      client client.py 200 : OK
+2021-07-09 00:47:41,719 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:48:01,633 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:48:01,639 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:48:01,643 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:48:01,643 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:48:01,643 DEBUG      client client.py 200 : OK
+2021-07-09 00:48:01,644 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:48:01,769 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:48:01,773 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:48:01,778 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:48:01,778 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:48:01,778 DEBUG      client client.py 200 : OK
+2021-07-09 00:48:01,778 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:48:01,780 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:48:01,786 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:48:01,790 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:48:01,790 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:48:01,790 DEBUG      client client.py 200 : OK
+2021-07-09 00:48:01,790 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:48:01,817 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:48:01,841 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:48:01,846 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:48:01,846 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:48:01,846 DEBUG      client client.py 200 : OK
+2021-07-09 00:48:01,846 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:48:01,951 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:48:01,969 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:48:01,975 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:48:01,976 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:48:01,976 DEBUG      client client.py 200 : OK
+2021-07-09 00:48:01,976 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:48:02,052 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:48:02,058 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:48:02,073 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:48:02,073 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:48:02,073 DEBUG      client client.py 200 : OK
+2021-07-09 00:48:02,073 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:48:02,168 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:48:02,173 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:48:02,180 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:48:02,180 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:48:02,180 DEBUG      client client.py 200 : OK
+2021-07-09 00:48:02,180 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:48:02,231 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:48:02,237 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:48:02,243 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:48:02,244 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:48:02,244 DEBUG      client client.py 200 : OK
+2021-07-09 00:48:02,244 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:48:02,390 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:48:02,395 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:48:02,400 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:48:02,400 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:48:02,400 DEBUG      client client.py 200 : OK
+2021-07-09 00:48:02,401 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:48:02,482 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:48:02,485 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:48:02,491 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:48:02,491 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:48:02,491 DEBUG      client client.py 200 : OK
+2021-07-09 00:48:02,492 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:48:09,935 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:48:09,938 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:48:09,948 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:48:09,949 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:48:09,949 DEBUG      client client.py 200 : OK
+2021-07-09 00:48:09,949 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:48:10,017 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:48:10,020 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:48:10,025 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:48:10,025 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:48:10,025 DEBUG      client client.py 200 : OK
+2021-07-09 00:48:10,025 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:48:10,040 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:48:10,063 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:48:10,069 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:48:10,070 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:48:10,070 DEBUG      client client.py 200 : OK
+2021-07-09 00:48:10,070 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:48:10,112 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:48:10,120 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:48:10,128 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:48:10,129 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:48:10,129 DEBUG      client client.py 200 : OK
+2021-07-09 00:48:10,129 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:48:10,294 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:48:10,304 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:48:10,310 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:48:10,310 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:48:10,311 DEBUG      client client.py 200 : OK
+2021-07-09 00:48:10,311 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:48:10,323 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:48:10,328 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:48:10,334 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:48:10,334 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:48:10,334 DEBUG      client client.py 200 : OK
+2021-07-09 00:48:10,334 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:48:10,490 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:48:10,494 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:48:10,499 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:48:10,500 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:48:10,500 DEBUG      client client.py 200 : OK
+2021-07-09 00:48:10,500 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:48:10,516 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:48:10,520 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:48:10,528 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:48:10,528 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:48:10,528 DEBUG      client client.py 200 : OK
+2021-07-09 00:48:10,528 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:48:10,760 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:48:10,766 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:48:10,771 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:48:10,771 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:48:10,772 DEBUG      client client.py 200 : OK
+2021-07-09 00:48:10,772 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:48:10,777 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:48:10,783 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:48:10,787 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:48:10,788 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:48:10,788 DEBUG      client client.py 200 : OK
+2021-07-09 00:48:10,788 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:48:12,325 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:48:12,340 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:48:12,345 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:48:12,345 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:48:12,345 DEBUG      client client.py 200 : OK
+2021-07-09 00:48:12,345 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:48:12,604 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:48:12,619 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:48:12,626 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:48:12,626 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:48:12,626 DEBUG      client client.py 200 : OK
+2021-07-09 00:48:12,626 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:48:12,750 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:48:12,767 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:48:12,779 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:48:12,784 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:48:12,784 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:48:12,785 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:48:12,793 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:48:12,793 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:48:12,793 DEBUG      client client.py 200 : OK
+2021-07-09 00:48:12,793 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:48:12,784 DEBUG      client client.py 200 : OK
+2021-07-09 00:48:12,797 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:48:12,844 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:48:12,862 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:48:12,871 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:48:12,872 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:48:12,872 DEBUG      client client.py 200 : OK
+2021-07-09 00:48:12,872 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:48:13,019 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:48:13,036 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:48:13,047 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:48:13,048 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:48:13,048 DEBUG      client client.py 200 : OK
+2021-07-09 00:48:13,048 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:48:13,092 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:48:13,104 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:48:13,110 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:48:13,111 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:48:13,111 DEBUG      client client.py 200 : OK
+2021-07-09 00:48:13,111 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:48:13,302 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:48:13,307 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:48:13,313 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:48:13,313 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:48:13,313 DEBUG      client client.py 200 : OK
+2021-07-09 00:48:13,314 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:48:13,391 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:48:13,396 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:48:13,398 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:48:13,401 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:48:13,401 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:48:13,402 DEBUG      client client.py 200 : OK
+2021-07-09 00:48:13,402 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:48:13,405 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:48:13,411 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:48:13,411 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:48:13,412 DEBUG      client client.py 200 : OK
+2021-07-09 00:48:13,412 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:48:15,767 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:48:15,777 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:48:15,786 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:48:15,786 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:48:15,786 DEBUG      client client.py 200 : OK
+2021-07-09 00:48:15,787 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:48:16,011 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:48:16,017 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:48:16,022 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:48:16,023 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:48:16,023 DEBUG      client client.py 200 : OK
+2021-07-09 00:48:16,023 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:48:16,317 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:48:16,323 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:48:16,330 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:48:16,330 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:48:16,330 DEBUG      client client.py 200 : OK
+2021-07-09 00:48:16,330 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:48:16,415 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:48:16,423 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:48:16,433 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:48:16,434 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:48:16,434 DEBUG      client client.py 200 : OK
+2021-07-09 00:48:16,434 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:48:16,491 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:48:16,499 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:48:16,506 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:48:16,507 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:48:16,507 DEBUG      client client.py 200 : OK
+2021-07-09 00:48:16,507 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:48:16,625 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:48:16,632 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:48:16,640 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:48:16,640 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:48:16,641 DEBUG      client client.py 200 : OK
+2021-07-09 00:48:16,641 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:48:16,657 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:48:16,658 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:48:16,664 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:48:16,666 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:48:16,672 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:48:16,672 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:48:16,672 DEBUG      client client.py 200 : OK
+2021-07-09 00:48:16,673 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:48:16,673 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:48:16,673 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:48:16,674 DEBUG      client client.py 200 : OK
+2021-07-09 00:48:16,674 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:48:16,766 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:48:16,770 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:48:16,770 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:48:16,778 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+
+2021-07-09 00:48:16,778 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:48:16,779 DEBUG      client client.py 200 : OK
+2021-07-09 00:48:16,779 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:48:16,786 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:48:16,787 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:48:16,787 DEBUG      client client.py 200 : OK
+2021-07-09 00:48:16,787 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:48:19,244 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:48:19,253 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:48:19,259 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:48:19,260 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:48:19,260 DEBUG      client client.py 200 : OK
+2021-07-09 00:48:19,260 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:48:19,366 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:48:19,378 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:48:19,383 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:48:19,384 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:48:19,384 DEBUG      client client.py 200 : OK
+2021-07-09 00:48:19,384 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:48:19,417 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:48:19,424 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:48:19,434 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:48:19,434 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:48:19,434 DEBUG      client client.py 200 : OK
+2021-07-09 00:48:19,434 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:48:19,549 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:48:19,553 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:48:19,558 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:48:19,559 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:48:19,559 DEBUG      client client.py 200 : OK
+2021-07-09 00:48:19,559 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:48:19,586 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:48:19,593 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:48:19,598 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:48:19,599 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:48:19,599 DEBUG      client client.py 200 : OK
+2021-07-09 00:48:19,599 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:48:19,688 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:48:19,697 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:48:19,706 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:48:19,706 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:48:19,706 DEBUG      client client.py 200 : OK
+2021-07-09 00:48:19,706 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:48:19,787 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:48:19,793 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:48:19,802 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:48:19,802 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:48:19,802 DEBUG      client client.py 200 : OK
+2021-07-09 00:48:19,802 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:48:19,856 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:48:19,860 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:48:19,869 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:48:19,869 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:48:19,869 DEBUG      client client.py 200 : OK
+2021-07-09 00:48:19,869 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:48:19,993 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:48:19,999 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:48:20,004 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:48:20,004 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:48:20,004 DEBUG      client client.py 200 : OK
+2021-07-09 00:48:20,004 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-09 00:48:20,117 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-09 00:48:20,121 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-09 00:48:20,127 DEBUG      client logs_decorator.py функция: handle_response, с параметрами: ({'response': 200},), {}, вызвана из функции: run_client.
+2021-07-09 00:48:20,128 DEBUG      client client.py Ответ от сервера: {'response': 200}
+2021-07-09 00:48:20,128 DEBUG      client client.py 200 : OK
+2021-07-09 00:48:20,128 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888 
+2021-07-11 17:14:42,187 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 17:14:42,188 ERROR      client commands.py Порт должен быть указан в диапазоне от 1024 до 65535
+2021-07-11 18:55:12,039 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 18:55:12,043 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-11 18:55:17,731 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 18:55:17,734 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-11 18:55:24,956 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 18:55:24,958 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-11 18:55:30,668 DEBUG      client logs_decorator.py функция: run_client, с параметрами: (), {}, вызвана из функции: <module>.
+2021-07-11 18:55:30,670 DEBUG      client logs_decorator.py функция: create_presence_message, с параметрами: ('Guest',), {}, вызвана из функции: run_client.
+2021-07-11 18:57:59,621 ERROR      client client.py Ошибка декодирования сообщения
+2021-07-11 18:57:59,621 INFO       client client.py Client connected at address: 127.0.0.8 port: 8888
