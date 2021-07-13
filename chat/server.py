@@ -38,7 +38,7 @@ def run_server():
     server_socket = socket(AF_INET, SOCK_STREAM)
     server_socket.bind((address, port))
     server_socket.listen(config.get('MAX_CONNECTIONS'))
-    # # server_socket.settimeout(config.get('TIMEOUT'))
+    server_socket.settimeout(config.get('TIMEOUT'))
 
     server_logger.info(f'The server runs at:{address or config.get("DEFAULT_IP_ADDRESS")} port: {port}')
     print(f'The server runs at:{address or config.get("DEFAULT_IP_ADDRESS")} port: {port}')
@@ -47,23 +47,21 @@ def run_server():
     while True:
         try:
             client, client_address = server_socket.accept()
+
+        except OSError:
+            pass
+        else:
             list_connected_clients.append(client)
             print(f'Установлено соедение с {client_address}')
             server_logger.info(f'Установлено соедение с {client_address}')
-
-        except(ValueError, json.JSONDecodeError):
-            server_logger.error(f'Принято некорретное сообщение от клиента - {ValueError}')
-            print('Принято некорретное сообщение от клиента')
 
         read_clients, write_clients, err_list = [], [], []
         try:
             read_clients, write_clients, err_list = select(list_connected_clients,
                                                            list_connected_clients,
                                                            [], 0)
-
-        except Exception as e:
-            server_logger.error(f'Произошла ошибка - {e}')
-            print(f'SERVER Произошла ошибка - {e}')
+        except OSError:
+            pass
 
         commands.get_requests_clients(read_clients,
                                       write_clients,
