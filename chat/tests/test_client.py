@@ -1,11 +1,11 @@
 import unittest
 
-from client import handle_response, create_presence_message
+from client_1 import handle_response, create_presence_message
 from services.commands import get_configs
 
 
 class TestClient(unittest.TestCase):
-    config = get_configs(name='client', is_server=False)
+    config = get_configs('client', is_server=False)
 
     def test_create_presence_message(self):
         test_create_presence_message = create_presence_message('Guest')

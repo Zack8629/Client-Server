@@ -5,7 +5,7 @@ from server import handle_message
 
 
 class TestServer(unittest.TestCase):
-    config = get_configs()
+    config = get_configs('server')
 
     def test_response_200(self):
         message = {

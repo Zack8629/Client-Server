@@ -34,10 +34,42 @@ def handle_response(message):
     raise ValueError
 
 
+def run_w():
+    server_address = commands.validate_address(client_name_logger) or \
+                     config.get("DEFAULT_IP_ADDRESS")
+    server_port = commands.validate_port(client_name_logger)
+
+    server_socket = socket(AF_INET, SOCK_STREAM)
+    server_socket.connect((server_address, server_port))
+
+    print(f'Client_W connected!')
+    # while True:
+    client_message = input('Введите сообщение: ')
+    commands.send_message(server_socket, client_message, config)
+
+    # server_socket.send(client_message.encode('utf-8'))
+
+
+def run_r():
+    server_address = commands.validate_address(client_name_logger) or \
+                     config.get("DEFAULT_IP_ADDRESS")
+    server_port = commands.validate_port(client_name_logger)
+
+    server_socket = socket(AF_INET, SOCK_STREAM)
+    server_socket.connect((server_address, server_port))
+
+    print(f'Client_R connected!')
+    # while True:
+    response = server_socket.recv(config.get('MAX_PACKAGE_LENGTH'))
+    if response:
+        data = response.decode('utf-8')
+        print(f'Message: {data}')
+
+
 @log
 def run_client():
     server_address = commands.validate_address(client_name_logger) or \
-                     commands.get_configs(client_name_logger).get("DEFAULT_IP_ADDRESS")
+                     config.get("DEFAULT_IP_ADDRESS")
     server_port = commands.validate_port(client_name_logger)
 
     server_socket = socket(AF_INET, SOCK_STREAM)
@@ -62,6 +94,17 @@ def run_client():
     client_logger.info(
         f'Client connected at address: {server_address or config.get("DEFAULT_IP_ADDRESS")} port: {server_port}'
     )
+
+    while True:
+        user = input('"(w)rite" or "(r)ead" or "(e)xit" -> ')
+        if user == 'e':
+            break
+        elif user == 'w':
+            run_w()
+        elif user == 'r':
+            run_r()
+        else:
+            print('Неверная команда! Попробуйте ещё раз.')
 
 
 if __name__ == '__main__':

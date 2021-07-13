@@ -88,7 +88,7 @@ def validate_port(name_logger):
     if validate_address(name_logger):
         argument_number = 4
 
-    config = get_configs(name_logger)
+    config = get_configs(name_logger, is_server=False)
     start_range_port = config.get('START_RANGE_PORT')
     end_range_port = config.get('END_RANGE_PORT')
 
@@ -116,19 +116,17 @@ def validate_port(name_logger):
 
 
 def get_requests_clients(read_clients, write_clients, list_connected_clients, configs, name_logger):
-    for r_sock in read_clients:
+    for read_client in read_clients:
         try:
-            message = r_sock.recv(configs.get('MAX_PACKAGE_LENGTH'))
-            for sock in write_clients:
+            message = read_client.recv(configs.get('MAX_PACKAGE_LENGTH'))
+            for write_client in write_clients:
                 try:
-                    sock.send(message)
+                    write_client.send(message)
                 except Exception as e:
-                    error_text = f'COMMANDS remove {sock} err == {e}'
+                    list_connected_clients.remove(write_client)
+
+                    error_text = f'COMMANDS remove {write_client} err == {e}'
                     get_logger(name_logger).error(error_text)
-                    print(f'COMMANDS remove {sock} err == {e}')
-                    list_connected_clients.remove(sock)
-        except Exception as e:
-            error_text = f'DONE ERR {e}'
-            get_logger(name_logger).error(error_text)
-            print('*' * 10)
-            print(f'COMMANDS DONE ERR {e}')
+                    print(error_text)
+        except OSError:
+            pass
